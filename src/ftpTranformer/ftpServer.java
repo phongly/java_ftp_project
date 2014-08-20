@@ -6,10 +6,6 @@
 
 package ftpTranformer;
 
-/**
- *
- * @author hai
- */
 public class ftpServer {
     public static void main(String[] args) {
         System.out.println("hello world");
